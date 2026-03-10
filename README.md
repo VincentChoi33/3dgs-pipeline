@@ -18,6 +18,18 @@ LightGlue (SfM) → Lightning + GSplatV1Renderer (Training) → Post-Processing 
 
 **Entire stack is commercially usable.**
 
+## Results
+
+### MeetingRoom (69 images, iPhone 13 mini)
+
+![MeetingRoom comparison](assets/meetingroom_1.jpg)
+![MeetingRoom comparison 2](assets/meetingroom_2.jpg)
+
+### Office (416 images, iPhone 13 mini)
+
+![Office comparison](assets/office_1.jpg)
+![Office comparison 2](assets/office_2.jpg)
+
 ## Benchmark Results
 
 Tested on two indoor scenes with LightGlue SfM, 30k training steps, RTX 4090.
