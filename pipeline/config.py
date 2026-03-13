@@ -1,4 +1,6 @@
 """YAML config loading with defaults merging."""
+from __future__ import annotations
+
 import yaml
 from pathlib import Path
 

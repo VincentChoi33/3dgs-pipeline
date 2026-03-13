@@ -1,4 +1,6 @@
 """Step 1: Video frame extraction and blur filtering."""
+from __future__ import annotations
+
 import logging
 import shutil
 import subprocess

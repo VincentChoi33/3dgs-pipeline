@@ -1,4 +1,6 @@
 """Step 4: Export full Gaussian PLY from Lightning checkpoint (self-contained)."""
+from __future__ import annotations
+
 import logging
 import re
 from pathlib import Path
